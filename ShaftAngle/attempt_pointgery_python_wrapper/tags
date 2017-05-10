@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+AcquireImages	Acquisition.cpp	/^int AcquireImages(CameraPtr pCam, INodeMap & nodeMap, INodeMap & nodeMapTLDevice)$/;"	f
+CC	Makefile	/^CC = g++ ${CFLAGS}$/;"	m
+INC	Makefile	/^INC = -I..\/..\/include$/;"	m
+OBJ	Makefile	/^OBJ = Acquisition.o$/;"	m
+OUTDIR	Makefile	/^OUTDIR = ..\/..\/bin$/;"	m
+OUTPUTNAME	Makefile	/^OUTPUTNAME = Acquisition${D}$/;"	m
+PrintDeviceInfo	Acquisition.cpp	/^int PrintDeviceInfo(INodeMap & nodeMap)$/;"	f
+RunSingleCamera	Acquisition.cpp	/^int RunSingleCamera(CameraPtr pCam)$/;"	f
+SPINNAKER_LIB	Makefile	/^SPINNAKER_LIB = -L..\/..\/lib -lSpinnaker${D}$/;"	m
+_APS_NEXT_COMMAND_VALUE	resource.h	10;"	d
+_APS_NEXT_CONTROL_VALUE	resource.h	11;"	d
+_APS_NEXT_RESOURCE_VALUE	resource.h	9;"	d
+_APS_NEXT_SYMED_VALUE	resource.h	12;"	d
+main	Acquisition.cpp	/^int main(int \/*argc*\/, char** \/*argv*\/)$/;"	f

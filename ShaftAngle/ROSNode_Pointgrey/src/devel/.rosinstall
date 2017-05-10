@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/user1/workspace/robot-runner/ShaftAngle/ROSNode_Pointgrey/src/devel/setup.sh

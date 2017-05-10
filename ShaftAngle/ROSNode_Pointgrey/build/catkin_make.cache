@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/user1/workspace/robot-runner/ShaftAngle/ROSNode_Pointgrey/devel -DCMAKE_INSTALL_PREFIX=/home/user1/workspace/robot-runner/ShaftAngle/ROSNode_Pointgrey/install -G Unix Makefiles
